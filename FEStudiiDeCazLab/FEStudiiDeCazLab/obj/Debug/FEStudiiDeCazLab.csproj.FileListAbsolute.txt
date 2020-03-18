@@ -1,0 +1,11 @@
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\FEStudiiDeCazLab.exe.config
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\FEStudiiDeCazLab.exe
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\FEStudiiDeCazLab.pdb
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\EntityFramework.dll
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\EntityFramework.SqlServer.dll
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\EntityFramework.xml
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\bin\Debug\EntityFramework.SqlServer.xml
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\obj\Debug\FEStudiiDeCazLab.csprojAssemblyReference.cache
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\obj\Debug\FEStudiiDeCazLab.csproj.CopyComplete
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\obj\Debug\FEStudiiDeCazLab.exe
+D:\tsp.net\FEStudiiDeCaz\FEStudiiDeCazLab\FEStudiiDeCazLab\obj\Debug\FEStudiiDeCazLab.pdb
